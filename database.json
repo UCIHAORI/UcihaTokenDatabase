@@ -2,5 +2,11 @@
   "tokenBot": {
     "Putz": "9210614494:AAFpqpEMG7_J3VSF7EKFve_IX_4ppUIidmc",
     "BOSS": "8869505921:AAG6NIeV0-Xzknuq_MWaxQWg3T9PDtkqUxA"
+  },
+  "users": {
+    "Member": {
+      "salt": "312218e1ddd9b81e3689cd63928c5bdf",
+      "hash": "eda24ac84cc84e002c8ec4b0b3a5c8f55c8021ce7a67c262ad7554150b930b0caaa2a95235d471ef351175156dfc13084b1ecf1484aec5c450d1fc4e3bb9c2ab"
+    }
   }
 }
